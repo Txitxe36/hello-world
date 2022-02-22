@@ -1,3 +1,3 @@
 # hello-world
 primer repositorio
-Mi nombre  es Miguel García soy estudiante de la tecnicatura en la Universidad Nacional de Lomas de Zamora
+Mi nombre  es Miguel García soy estudiante de la tecnicatura en programacion de computadoras en la Universidad Nacional de Lomas de Zamora
